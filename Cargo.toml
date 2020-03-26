@@ -1,0 +1,11 @@
+[package]
+name = "wrightsman"
+version = "0.1.0"
+authors = ["Aceeri (conmcclusk@gmail.com)"]
+publish = false
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+gdnative = "0.8.0"
